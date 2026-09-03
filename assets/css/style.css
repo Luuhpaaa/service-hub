@@ -138,3 +138,39 @@ body {
     color: #64748b;
     font-size: 14px;
 }
+
+.pedido {
+    margin-bottom: 20px;
+    padding: 28px;
+    background-color: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 16px;
+    box-shadow: 0 4px 14px rgb(15 23 42 / 0.05);
+}
+
+.icone-pedido {
+    display: inline-block;
+    margin-bottom: 12px;
+    color: #2563eb;
+    font-size: 32px;
+}
+
+.pedido h3 {
+    margin: 0;
+    color: #111827;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.cliente {
+    margin: 2px 0 0;
+    color: #475569;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.descricao {
+    margin: 16px 0;
+    color: #334155;
+    font-size: 16px;
+}
